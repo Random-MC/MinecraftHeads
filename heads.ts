@@ -52,7 +52,7 @@ async function main(args: string[]) {
   }
 
   console.log("Writing to file...");
-  Deno.writeTextFile(flags.outFile, JSON.stringify(data, null, 4));
+  Deno.writeTextFile(flags.outFile, JSON.stringify(data));
   console.log(`Done! ${data.length} entries written to ${flags.outFile}.`);
 }
 
