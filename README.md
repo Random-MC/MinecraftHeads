@@ -10,13 +10,13 @@ To allow developers to fetch the entire dataset with a single HTTP call and with
 
 ## Downloads
 
-The file is available via CDN, courtesy of [jsDelivr](https://www.jsdelivr.com):
+The file is available via CDN, courtesy of [raw.githack.com](https://raw.githack.com/):
 
 ```
-https://cdn.jsdelivr.net/gh/Random-MC/MinecraftHeads@master/heads.json
+https://raw.githack.com/Random-MC/MinecraftHeads/master/heads.json
 ```
 
-Or you can click here: **[direct download link](https://cdn.jsdelivr.net/gh/Random-MC/MinecraftHeads@master/heads.json)**
+Or you can click here: **[direct download link](https://raw.githack.com/Random-MC/MinecraftHeads/master/heads.json)**
 
 ## Usage
 
